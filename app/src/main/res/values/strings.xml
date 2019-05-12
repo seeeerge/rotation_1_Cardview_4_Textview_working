@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">rotation</string>
+    <string name="countriesgroup1">"New Zealand1, Nicaragua, Niger, Nigeria,
+        Norway, Oman, Panama, Papua New Guinea,
+        Paraguay, Peru, Philippines, Poland,
+        Portugal, Puerto Rico, Qatar, Reunion,
+        Romania, Russia, Rwanda, Saint Pierre
+        et Miquelon, Samoa, San Marino,
+        Satellite, Saudi Arabia, Senegal,
+        Serbia, Seychelles, Sierra Leone,
+        Singapore, Slovakia, Slovenia,
+        South Africa, South Korea, Spain,
+        Sri Lanka, St Kitts et Nevis,
+        St Lucia, St Vincent, St. Lucia,
+        Sudan, Suriname, Swaziland, Sweden"</string>
+    <string name="countriesgroup2">"New Zealand2, Nicaragua, Niger, Nigeria,
+        Norway, Oman, Panama, Papua New Guinea,
+        Paraguay, Peru, Philippines, Poland,
+        Portugal, Puerto Rico, Qatar, Reunion,
+        Romania, Russia, Rwanda, Saint Pierre
+        et Miquelon, Samoa, San Marino,
+        Satellite, Saudi Arabia, Senegal,
+        Serbia, Seychelles, Sierra Leone,
+        Singapore, Slovakia, Slovenia,
+        South Africa, South Korea, Spain,
+        Sri Lanka, St Kitts et Nevis,
+        St Lucia, St Vincent, St. Lucia,
+        Sudan, Suriname, Swaziland, Sweden"</string>
+    <string name="countriesgroup3">"New Zealand3, Nicaragua, Niger, Nigeria,
+        Norway, Oman, Panama, Papua New Guinea,
+        Paraguay, Peru, Philippines, Poland,
+        Portugal, Puerto Rico, Qatar, Reunion,
+        Romania, Russia, Rwanda, Saint Pierre
+        et Miquelon, Samoa, San Marino,
+        Satellite, Saudi Arabia, Senegal,
+        Serbia, Seychelles, Sierra Leone,
+        Singapore, Slovakia, Slovenia,
+        South Africa, South Korea, Spain,
+        Sri Lanka, St Kitts et Nevis,
+        St Lucia, St Vincent, St. Lucia,
+        Sudan, Suriname, Swaziland, Sweden"</string>
+    <string name="countriesgroup4">"New Zealand4, Nicaragua, Niger, Nigeria,
+        Norway, Oman, Panama, Papua New Guinea,
+        Paraguay, Peru, Philippines, Poland,
+        Portugal, Puerto Rico, Qatar, Reunion,
+        Romania, Russia, Rwanda, Saint Pierre
+        et Miquelon, Samoa, San Marino,
+        Satellite, Saudi Arabia, Senegal,
+        Serbia, Seychelles, Sierra Leone,
+        Singapore, Slovakia, Slovenia,
+        South Africa, South Korea, Spain,
+        Sri Lanka, St Kitts et Nevis,
+        St Lucia, St Vincent, St. Lucia,
+        Sudan, Suriname, Swaziland, Sweden"</string>
+</resources>

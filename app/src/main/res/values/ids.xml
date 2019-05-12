@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="group1" type="id"/>
+    <item name="rotatebuttonleft" type="id"/>
+    <item name="rotatebuttonright" type="id"/>
+    <item name="choosebutton" type="id"/>
+</resources>
